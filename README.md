@@ -25,7 +25,7 @@ Chi-Squared Test -> Performing a chi-sqaured test on the combined.csv file.
 K-Means-Clustering -> Performing a K-Means-Clustering.
 --> Result = clustered the data from the combined.csv file
 </b>
-</br>
+<br>
 
 The project must be a Data Analytics project, i.e., must include content of the Data Analytics module.
 
