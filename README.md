@@ -33,6 +33,7 @@ The documentation of the api:https://api.unhcr.org/docs/refugee-statistics.html 
 </b>
 
 <br>
+<br>
 The project must be a Data Analytics project, i.e., must include content of the Data Analytics module.
 
 The project must integrate several topics presented in the module, at a minimum these are the following: 
@@ -63,4 +64,5 @@ Additional points, if the following criteria are met (max 5 points):
 (4) Use of a Chi-squared test or analysis of variance (ANOVA) or correlation analysis (each test must include a p-value).
 
 (5) Use of k-means clustering in addition to the regression or classification model.
+</br>
 </br>
